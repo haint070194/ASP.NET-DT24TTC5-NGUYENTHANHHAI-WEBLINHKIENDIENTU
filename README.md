@@ -27,9 +27,7 @@ ASPNET-DT24TTC5-NguyenThanhHai-Website Bán Linh Kiện Điện Tử
 * ###### Quản lý tài khoản khách hàng.
 * ###### Quản lý đơn hàng
 * ###### Theo dõi số lượng tồn kho
-* 
 * ###### Về kỹ thuật:
-
 * ###### Áp dụng mô hình MVC (Model-View-Controller) để xây dựng ứng dụng web có cấu trúc rõ ràng, dễ bảo trì, nâng cấp và mở rộng trong tương lai.
 * ###### 4\. Công nghệ sử dụng
 * ###### C# (C-Sharp)
